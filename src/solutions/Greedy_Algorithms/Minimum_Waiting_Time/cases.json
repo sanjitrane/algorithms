@@ -1,0 +1,252 @@
+{
+  "TestResults": [
+    {
+      "Expected": 17,
+      "Actual": 17,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 86739,
+      "ActualDuration": 68567
+    },
+    {
+      "Expected": 6,
+      "Actual": 6,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 5954,
+      "ActualDuration": 7595
+    },
+    {
+      "Expected": 23,
+      "Actual": 23,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 21937,
+      "ActualDuration": 4088
+    },
+    {
+      "Expected": 32,
+      "Actual": 32,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 6152,
+      "ActualDuration": 6752
+    },
+    {
+      "Expected": 10,
+      "Actual": 10,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 7074,
+      "ActualDuration": 6952
+    },
+    {
+      "Expected": 19,
+      "Actual": 19,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 3242,
+      "ActualDuration": 8100
+    },
+    {
+      "Expected": 45,
+      "Actual": 45,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 7334,
+      "ActualDuration": 3467
+    },
+    {
+      "Expected": 0,
+      "Actual": 0,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 1793,
+      "ActualDuration": 979
+    },
+    {
+      "Expected": 0,
+      "Actual": 0,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 1753,
+      "ActualDuration": 929
+    },
+    {
+      "Expected": 8,
+      "Actual": 8,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 8900,
+      "ActualDuration": 9591
+    },
+    {
+      "Expected": 1,
+      "Actual": 1,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 3243,
+      "ActualDuration": 2316
+    },
+    {
+      "Expected": 20,
+      "Actual": 20,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 2864,
+      "ActualDuration": 3418
+    },
+    {
+      "Expected": 20,
+      "Actual": 20,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 2937,
+      "ActualDuration": 2546
+    },
+    {
+      "Expected": 81,
+      "Actual": 81,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 3526,
+      "ActualDuration": 3829
+    },
+    {
+      "Expected": 10,
+      "Actual": 10,
+      "Matches": true,
+      "Error": null,
+      "ExpectedDuration": 2126,
+      "ActualDuration": 2119
+    }
+  ],
+  "JSONTests": [
+    {
+      "queries": [
+        3,
+        2,
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "queries": [
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "queries": [
+        1,
+        2,
+        4,
+        5,
+        2,
+        1
+      ]
+    },
+    {
+      "queries": [
+        25,
+        30,
+        2,
+        1
+      ]
+    },
+    {
+      "queries": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "queries": [
+        7,
+        9,
+        2,
+        3
+      ]
+    },
+    {
+      "queries": [
+        4,
+        3,
+        1,
+        1,
+        3,
+        2,
+        1,
+        8
+      ]
+    },
+    {
+      "queries": [
+        2
+      ]
+    },
+    {
+      "queries": [
+        7
+      ]
+    },
+    {
+      "queries": [
+        8,
+        9
+      ]
+    },
+    {
+      "queries": [
+        1,
+        9
+      ]
+    },
+    {
+      "queries": [
+        5,
+        4,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "queries": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "queries": [
+        1,
+        1,
+        1,
+        4,
+        5,
+        6,
+        8,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "queries": [
+        17,
+        4,
+        3
+      ]
+    }
+  ]
+}
