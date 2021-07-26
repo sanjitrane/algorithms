@@ -1,0 +1,144 @@
+{
+  "TestResults": [
+    {
+      "Expected": true
+    },
+    {
+      "Expected": false
+    },
+    {
+      "Expected": false
+    },
+    {
+      "Expected": false
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": false
+    },
+    {
+      "Expected": false
+    },
+    {
+      "Expected": false
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": false
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": false
+    },
+    {
+      "Expected": false
+    },
+    {
+      "Expected": false
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": true
+    }
+  ],
+  "JSONTests": [
+    {
+      "string": "([])(){}(())()()"
+    },
+    {
+      "string": "()[]{}{"
+    },
+    {
+      "string": "(((((({{{{{[[[[[([)])]]]]]}}}}}))))))"
+    },
+    {
+      "string": "()()[{()})]"
+    },
+    {
+      "string": "(()())((()()()))"
+    },
+    {
+      "string": "{}()"
+    },
+    {
+      "string": "()([])"
+    },
+    {
+      "string": "((){{{{[]}}}})"
+    },
+    {
+      "string": "((({})()))"
+    },
+    {
+      "string": "(([]()()){})"
+    },
+    {
+      "string": "(((((([[[[[[{{{{{{{{{{{{()}}}}}}}}}}}}]]]]]]))))))((([])({})[])[])[]([]){}(())"
+    },
+    {
+      "string": "{[[[[({(}))]]]]}"
+    },
+    {
+      "string": "[((([])([]){}){}){}([])[]((())"
+    },
+    {
+      "string": ")[]}"
+    },
+    {
+      "string": "(a)"
+    },
+    {
+      "string": "(a("
+    },
+    {
+      "string": "(141[])(){waga}((51afaw))()hh()"
+    },
+    {
+      "string": "aafwgaga()[]a{}{gggg"
+    },
+    {
+      "string": "(((((({{{{{safaf[[[[[([)]safsafsa)]]]]]}}}gawga}}))))))"
+    },
+    {
+      "string": "()(agawg)[{()gawggaw})]"
+    },
+    {
+      "string": "(()agwg())((()agwga()())gawgwgag)"
+    },
+    {
+      "string": "{}gawgw()"
+    },
+    {
+      "string": "(agwgg)([ghhheah%\u0026@Q])"
+    }
+  ]
+}

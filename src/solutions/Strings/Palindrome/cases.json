@@ -1,0 +1,60 @@
+{
+  "TestResults": [
+    {
+      "Expected": true
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": false
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": false
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": true
+    },
+    {
+      "Expected": false
+    }
+  ],
+  "JSONTests": [
+    {
+      "string": "abcdcba"
+    },
+    {
+      "string": "a"
+    },
+    {
+      "string": "ab"
+    },
+    {
+      "string": "aba"
+    },
+    {
+      "string": "abb"
+    },
+    {
+      "string": "abba"
+    },
+    {
+      "string": "abcdefghhgfedcba"
+    },
+    {
+      "string": "abcdefghihgfedcba"
+    },
+    {
+      "string": "abcdefghihgfeddcba"
+    }
+  ]
+}
