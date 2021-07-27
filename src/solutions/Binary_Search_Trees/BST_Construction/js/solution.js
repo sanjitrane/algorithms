@@ -62,15 +62,47 @@ class BST{
     this.right = null
   }
 
+  //Average : Time - O(log(n)) | Space - O(log(n)) - space due to stack execution from recursive calls
+  //Worst: Time - O(n) | Space O(n)
   insert(value){
-
+    if(value < this.value){
+      if(this.left === null){
+        this.left = new BST(value)
+      }else{
+        this.left.insert(value)
+      }
+    }else{
+      if(this.right === null){
+        this.right = new BST(value)
+      }else{
+        this.right.insert(value)
+      }
+    }
+    return this
   }
 
+  //Average : Time O(log(n)) | Space O(log(n)) 
+  //Worst : Time O(n) | Space O(n)
   contains(value){
-
+    if(value < this.value){
+      if(this.left === null){
+        return false
+      }else{
+        this.left.contains(value)
+      }
+    }else{
+      if(this.right === null){
+        return false
+      }else{
+        this.right.contains(value)
+      }
+    }
+    return true
   }
 
   remove(value){
-    
+    return this
   }
 }
+
+module.exports = BST
