@@ -1,0 +1,20 @@
+To get the 
+parent = Math.round((current - 1)/2)
+child-left = current * 2 + 1
+child-right = current * 2 + 2
+
+Build heap:
+
+Shift Down:
+
+Shift Up:
+Get the parent index of the current node.
+
+Peek:
+Returns the root value of the heap 
+
+Remove:
+Swaping the root value with the last value of the heap. Throwing off the swaped root value and then shifting down the new root value. 
+
+Insert:
+Add value to the end of the heap. After adding the value is shifted Up.
