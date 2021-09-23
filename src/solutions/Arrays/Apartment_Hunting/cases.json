@@ -1,0 +1,426 @@
+{
+    "TestResults": [
+        {
+          "Expected": 3
+        },
+        {
+          "Expected": 2
+        },
+        {
+          "Expected": 2
+        },
+        {
+          "Expected": 4
+        },
+        {
+          "Expected": 2
+        },
+        {
+          "Expected": 7
+        },
+        {
+          "Expected": 4
+        }
+      ],
+      "JSONTests": [
+        {
+          "blocks": [
+            {
+              "gym": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": true,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": true,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "school": true,
+              "store": true
+            }
+          ],
+          "reqs": [
+            "gym",
+            "school",
+            "store"
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "gym": false,
+              "office": true,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": true,
+              "office": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": true,
+              "office": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": false,
+              "school": true,
+              "store": true
+            }
+          ],
+          "reqs": [
+            "gym",
+            "office",
+            "school",
+            "store"
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "gym": false,
+              "office": true,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": true,
+              "office": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": true,
+              "office": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": false,
+              "school": true,
+              "store": true
+            }
+          ],
+          "reqs": [
+            "gym",
+            "office",
+            "school",
+            "store"
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "foo": true,
+              "gym": false,
+              "kappa": false,
+              "office": true,
+              "school": true,
+              "store": false
+            },
+            {
+              "foo": true,
+              "gym": true,
+              "kappa": false,
+              "office": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "foo": true,
+              "gym": true,
+              "kappa": false,
+              "office": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "foo": true,
+              "gym": false,
+              "kappa": false,
+              "office": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "foo": true,
+              "gym": true,
+              "kappa": false,
+              "office": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "foo": true,
+              "gym": false,
+              "kappa": false,
+              "office": false,
+              "school": true,
+              "store": true
+            }
+          ],
+          "reqs": [
+            "gym",
+            "school",
+            "store"
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "gym": true,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "school": false,
+              "store": true
+            },
+            {
+              "gym": true,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "school": true,
+              "store": false
+            }
+          ],
+          "reqs": [
+            "gym",
+            "school",
+            "store"
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "gym": true,
+              "pool": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "pool": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "pool": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "pool": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "pool": false,
+              "school": false,
+              "store": true
+            },
+            {
+              "gym": true,
+              "pool": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "pool": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "pool": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "pool": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "pool": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "pool": true,
+              "school": false,
+              "store": false
+            }
+          ],
+          "reqs": [
+            "gym",
+            "pool",
+            "school",
+            "store"
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "gym": true,
+              "office": false,
+              "pool": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": false,
+              "pool": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": true,
+              "pool": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": true,
+              "pool": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": false,
+              "pool": false,
+              "school": false,
+              "store": true
+            },
+            {
+              "gym": true,
+              "office": true,
+              "pool": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": false,
+              "pool": true,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": false,
+              "pool": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": false,
+              "pool": false,
+              "school": false,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": false,
+              "pool": false,
+              "school": true,
+              "store": false
+            },
+            {
+              "gym": false,
+              "office": false,
+              "pool": true,
+              "school": false,
+              "store": false
+            }
+          ],
+          "reqs": [
+            "gym",
+            "pool",
+            "school",
+            "store"
+          ]
+        }
+      ]
+}
