@@ -43,7 +43,7 @@ class BinaryTree:
 def findKthLargestValueInBST(tree, k):
     sortedNodeValues = []
     inOrderTraverse(tree, k, sortedNodeValues)
-    return sortedNodeValues[len(sortedNodeValues) - k)
+    return sortedNodeValues[len(sortedNodeValues) - k]
 
 def inOrderTraverse(node, k, sortedNodeValues):
     if node== None:
